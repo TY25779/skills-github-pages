@@ -10,5 +10,4 @@
 - WeChat
 - Email： tianyi--wang@outlook.com
 
-<img src="https://github.com/user-attachments/assets/fe1a96a1-057b-494d-9e89-f4637937f293
-" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+<img src="https://github.com/user-attachments/assets/fe1a96a1-057b-494d-9e89-f4637937f293" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
